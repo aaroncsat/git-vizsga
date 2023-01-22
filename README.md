@@ -17,3 +17,11 @@
 8. README.md és .ggit itignore fájlok létrehozása, majd a meghatározottak szerint git add . és a git commit -m parancsok alapján fájl mentése verzióba
 
 9. Az app.js fájl módosítása után a git add . és a git commit -m parancsok alapján fájl mentése verzióba 
+
+10. A style.css fájl módosítása után a git add . és a git commit -m parancsok alapján fájl mentése verzióba
+
+12. git checkout main - ág váltása
+
+11. git remote add origin + link - távoli gyűjtemény megadása, majd git push -u origin main - pusholok a remote repositoryba.
+
+13. git checkout console - visszaváltás a console ágra, majd git push -u origin console - feltöltöm a console branchet is a remote repositoryba.
