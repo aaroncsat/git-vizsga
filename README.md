@@ -15,3 +15,5 @@
 7. code . ---> Visual Studio Code megnyitása (alapértelmezett)
 
 8. README.md és .ggit itignore fájlok létrehozása, majd a meghatározottak szerint git add . és a git commit -m parancsok alapján fájl mentése verzióba
+
+9. Az app.js fájl módosítása után a git add . és a git commit -m parancsok alapján fájl mentése verzióba 
